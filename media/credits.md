@@ -2,7 +2,7 @@
 
 | File | Source | Credit and limits |
 | --- | --- | --- |
-| vision/window-detection-example.jpg | The Detection of a Coil Gun (revised by K).pptx, slide 13; embedded image23.jpeg | Historical detection screenshot. Model training credited to Michael Lin. Publication permission confirmed by Michael on September 25, 2026. Capture author unspecified; do not assume Michael Lu took it. |
+| vision/window-detection-example.jpg | The Detection of a Coil Gun (revised by K).pptx, slide 13; embedded image23.jpeg | Historical detection screenshot. Model training credited to Michael Lin. Publication permission confirmed by Michael on September 25, 2026. Screenshot captured by Michael Lu, confirmed directly by him. |
 
 The screenshot is a byte-for-byte copy of the embedded asset with a new filename. It illustrates predictions, not ground truth or measured accuracy. No media reuse license is asserted.
 

@@ -12,7 +12,7 @@ A later entry reports a higher estimate while saying that the landing position w
 
 ## Earlier experiments
 
-The log includes calculations and descriptions concerning friction, contact, and heating. Referenced spreadsheets were not supplied. Calculations and qualitative observations are not converted into reconstructed raw data.
+The log includes calculations and descriptions concerning friction, contact, and heating. Original spreadsheets were not supplied. A subsequently provided April 2026 draft report includes two tables of frame-indexed observations and derived quantities (pp. 21-23). These are source tables, not an original spreadsheet or independent reproduction of the measurements. Trial labels and calculation provenance need reconciliation before additional quantitative conclusions can be adopted. See [draft-report summary](../docs/draft-report-summary.md).
 
 Operating settings, construction details, and optimization instructions are omitted. No verified efficiency, range, reliability, or firefighting-performance claim is made.
 

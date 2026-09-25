@@ -1,6 +1,8 @@
 # Project scope
 
-This portfolio records engineering development using nine project files, cross-checked against Michael's current technical resume and research CV on September 25, 2026. It emphasizes physical fabrication, embedded software, visual sensing, and historical observations.
+This portfolio records engineering development using nine original project files plus a subsequently supplied draft project report, cross-checked against Michael's current technical resume and research CV on September 25, 2026. It emphasizes physical fabrication, embedded software, visual sensing, and historical observations.
+
+The draft report is unpublished and dated April 2026; a qualified summary is included, not the original PDF.
 
 The release includes high-level subsystem responsibilities, design lessons, qualified experimental results, contributor distinctions, one selected screenshot, and an isolated communication example.
 

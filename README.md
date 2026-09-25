@@ -12,7 +12,7 @@ The public material focuses on engineering analysis and development history. Det
 
 Michael performed most of the physical building and system integration, led the final system architecture, developed the Arduino-side work, iterated the CAD designs, and conducted testing. He also refined AI-assisted integration code while working through hardware and software compatibility problems.
 
-A collaborator helped originate the project. Michael's research CV names Tony Chen and mentor Huajie Ke as contributors to planning, discussion, and problem-solving. The original project statement does not explicitly identify the origin collaborator by name. The presentation credits **Michael Lin** with training the YOLO model used in the project. Michael's CV also records that he trained an initial model, identified its limitations, and adapted a working collaborator-trained model. His contribution should not be interpreted as sole authorship of the final model or its training pipeline. See [attribution](ATTRIBUTION.md).
+Tony Chen helped originate the project with Michael. Michael's research CV names Tony and mentor Huajie Ke as contributors to planning, discussion, and problem-solving. The draft project report lists Michael Lu and Tony Chen as coauthors. The presentation credits **Michael Lin** with training the YOLO model used in the project. Michael's CV also records that he trained an initial model, identified its limitations, and adapted a working collaborator-trained model. His contribution should not be interpreted as sole authorship of the final model or its training pipeline. See [attribution](ATTRIBUTION.md).
 
 ## System architecture
 
@@ -45,7 +45,7 @@ The window-detection material documents annotation conversion, augmentation, and
 
 ![Historical window-detection screenshot showing predicted boxes on a building facade](media/vision/window-detection-example.jpg)
 
-*From presentation slide 13. Boxes and displayed scores are model outputs, not ground truth or an accuracy metric. The presentation credits Michael Lin for model training; the screenshot capture author is unspecified. See [media provenance](media/credits.md).*
+*From presentation slide 13. Boxes and displayed scores are model outputs, not ground truth or an accuracy metric. The presentation credits Michael Lin for model training; Michael Lu captured the screenshot. See [media provenance](media/credits.md).*
 
 See [controls and vision](docs/controls-and-vision.md) and [model provenance](docs/vision-provenance.md).
 
@@ -62,6 +62,10 @@ See [controls and vision](docs/controls-and-vision.md) and [model provenance](do
 A later, higher velocity estimate is excluded from validated results because the underlying record does not establish a reliable measurement. The proposed firefighting application remained a concept; the materials do not demonstrate fire suppression or operational readiness.
 
 The [experimental summary](results/experimental-summary.md), [control observations](results/control-observations.md), and [evidence register](results/evidence-and-limitations.md) record sources and qualifications.
+
+## Draft report
+
+An unpublished, 24-page report by Michael Lu and Tony Chen, dated April 2026, adds a narrative account and tabulated observations from early experiments. It remains a draft with incomplete sections and unresolved labels; it does not establish additional validated performance or independently confirm the later June completion milestone. See the [report summary and evidence limits](docs/draft-report-summary.md). The original PDF is retained privately.
 
 ## Repository contents
 

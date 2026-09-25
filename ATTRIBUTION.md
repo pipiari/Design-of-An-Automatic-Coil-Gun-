@@ -6,11 +6,15 @@ Michael's explicit contribution statement establishes that he performed most phy
 
 ## Collaborators and mentorship
 
-- A collaborator helped originate the project. Their identity is not supplied for this release; do not assume this is the model trainer.
-- The current research CV names **Tony Chen** and mentor **Huajie Ke** for planning, discussion, and problem-solving. The presentation names Dr. Ke as supervisor and acknowledges long-term mentorship. The identity of the project-origin collaborator remains separate unless explicitly established.
+- **Tony Chen** helped originate the project with Michael, as Michael explicitly confirmed. The draft report lists Michael Lu and Tony Chen as coauthors. These roles are distinct from Michael Lin's model-training contribution.
+- The current research CV names **Tony Chen** and mentor **Huajie Ke** for planning, discussion, and problem-solving. The presentation names Dr. Ke as supervisor and acknowledges long-term mentorship. Michael has confirmed Tony Chen as the project-origin collaborator.
 - Presentation slides 12 and 28 explicitly credit **Michael Lin** for training the project's YOLO model. Training should not be attributed entirely to Michael Lu.
 - Slide 28 acknowledges Dr. Chantal and Mr. Herman for guidance and/or laboratory support. No additional technical authorship is inferred.
 - Slide 28 credits Jeff Chen for the car-testing video and George Zheng for the aiming-test video. Neither video is included here.
+
+## Screenshot credit
+
+Michael Lu explicitly confirmed that he captured the window-detection screenshot reproduced in this repository. Model-training credit remains with Michael Lin.
 
 ## Code, models, and documentation
 

@@ -5,7 +5,10 @@ Sources are privately retained supplied files, not downloads in this repository.
 | Claim | Source | Evidence limit |
 | --- | --- | --- |
 | Michael's construction, integration, architecture, Arduino, code refinement, CAD, and testing work | Explicit project-owner statement | Not a per-line authorship audit |
-| Collaborator helped originate project; Tony Chen and Huajie Ke contributed planning/discussion | Project-owner statement; current research CV p. 1 | Do not automatically identify the origin collaborator as Tony Chen or Michael Lin |
+| Tony Chen helped originate the project; Tony and Huajie Ke contributed planning/discussion | Explicit project-owner confirmation; current research CV p. 1 | Roles distinct from Michael Lin's model training |
+| Michael Lu captured the published detection screenshot | Explicit project-owner confirmation | Capture credit distinct from model-training credit |
+| Draft report coauthored by Michael Lu and Tony Chen | Coil_Gun_Engineering_Project (6).pdf, title page | Unpublished draft dated April 2026; not a June final report |
+| Tabulated early experimental observations now available | Draft report pp. 21-23 | Trial labels unresolved; original spreadsheets/videos and calculation verification still absent |
 | Michael explored initial YOLO training before adapting a collaborator-trained model | Current resume p. 1; current research CV p. 1 | Author-reported; final model training credited to Michael Lin in the presentation |
 | Fusion 360, Rhino, and EasyEDA used in the project | Current resume p. 1; current research CV p. 1 | Author-reported tool use |
 | Working prototype assembly and documentation completed by June 2026 | Current research CV p. 1; resume project dates | Completion report, not a measured performance benchmark |
@@ -20,7 +23,7 @@ Sources are privately retained supplied files, not downloads in this repository.
 | Combined testing listed as future work in May presentation | Presentation slide 27 | Earlier stage than CV's June completion report; neither supplies quantitative full-system validation |
 | Firefighting use case | Presentation slide 3 | Proposal, not demonstrated suppression |
 
-The current technical resume (one page) and research CV (two pages) were supplied for a consistency check on September 25, 2026. No experimental spreadsheet, native CAD file, model weights, dataset, or complete historical version-controlled release was supplied. Embedded references are not treated as accessible attachments.
+The current technical resume (one page) and research CV (two pages) were supplied for a consistency check on September 25, 2026. No experimental spreadsheet, native CAD file, model weights, dataset, or complete historical version-controlled release was supplied. A subsequently supplied 24-page draft report provides tabulated early observations, but does not supply the original spreadsheets or videos. Embedded references are not treated as accessible attachments.
 
 The files represent different stages. A filename, configured parameter, success comment, or screenshot alone cannot establish final performance.
 
