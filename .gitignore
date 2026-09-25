@@ -1,0 +1,23 @@
+# Private sources and working notes stay outside this repository.
+/sources/
+/private/
+/_private/
+/kuroko-review/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+# Original archives, documents, models, and fabrication assets.
+*.pdf
+*.pptx
+*.docx
+*.xlsx
+*.zip
+*.pt
+*.onnx
+*.stl
+*.step
+*.stp
